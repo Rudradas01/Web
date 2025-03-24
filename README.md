@@ -1,2 +1,2 @@
 # Web
-Initial portfolio.
+Initial portfolio
